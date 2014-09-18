@@ -24,7 +24,7 @@ public class WhoBannedMe extends JavaPlugin implements Listener {
     public boolean updateCheck;
     public boolean debugMode;
     public boolean consoleOutput;
-    public String broadcastTag = ChatColor.GRAY + "[" + ChatColor.YELLOW + "BanChecks" + ChatColor.GRAY + "] " + ChatColor.GRAY;
+    public String broadcastTag = ChatColor.DARK_PURPLE + "[" + ChatColor.YELLOW + "BanChecks" + ChatColor.DARK_PURPLE + "] " + ChatColor.GRAY;
     public String noPerms = broadcastTag + "You do not have permission to do that!";
     public String overBansMessage;
 
