@@ -1,4 +1,4 @@
-name: WhoBannedMe
+name: BanChecks
 main: me.whobanned.WhoBannedMe
 version: DevBuild
 author: FearFree
