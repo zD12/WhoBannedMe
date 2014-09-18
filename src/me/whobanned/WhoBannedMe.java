@@ -62,7 +62,7 @@ public class WhoBannedMe extends JavaPlugin implements Listener {
             // Failed to submit the stats :-(
         }
 
-        getLogger().log(Level.INFO, "WhoBannedMe Loaded!");
+        getLogger().log(Level.INFO, "WhoBannedMe by FearFree loaded!");
     }
 
     @Override
