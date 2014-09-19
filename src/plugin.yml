@@ -7,7 +7,7 @@ description: Interface for Fishbans ban lookup tool.
 permissions:
     whobannedme.exempt:
         description: Allows bypassing the ban check on login
-        default: op
+        default: false
     
     whobannedme.notify:
         description: Allows users to see warning when bans are found
